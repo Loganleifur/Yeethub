@@ -34,33 +34,33 @@ namespace Sans_dating_sim
             input = Console.ReadLine();
 
 
-                if (input == "y")
-                {
-                    Console.WriteLine("");
-                    Console.WriteLine("*You wake up one morning and look at your alarm clock*");
-                    Console.ReadKey();
-                    Console.WriteLine("*You're gonna be late for school!*");
-                    Console.ReadKey();
-                    Console.WriteLine("*In a swift motion, you put on your ahegao sweatshirt*");
-                    Console.ReadKey();
-                    Console.WriteLine("*and stuff a piece of toast into your mouth whilst running out the door*");
-                    Console.ReadKey();
-                    Console.WriteLine(" 'I can't be late on my first day of school!' ");
-                    Console.ReadKey();
-                    Console.WriteLine("*without thinking, you run around a corner*");
-                    Console.ReadKey();
-                    Console.WriteLine("*CRASH*");
-                    Console.ReadKey();
-                    Console.WriteLine(" Unknown: 'Ow, what the hell?!' ");
-                    Console.ReadKey();
-                    Console.WriteLine(" 'Hey are you ok?' ");
-                    Console.ReadKey();
-                    Console.WriteLine("You smell crabs");
+            if (input == "y")
+            {
+                Console.WriteLine("");
+                Console.WriteLine("*You wake up one morning and look at your alarm clock*");
+                Console.ReadKey();
+                Console.WriteLine("*You're gonna be late for school!*");
+                Console.ReadKey();
+                Console.WriteLine("*In a swift motion, you put on your ahegao sweatshirt*");
+                Console.ReadKey();
+                Console.WriteLine("*and stuff a piece of toast into your mouth whilst running out the door*");
+                Console.ReadKey();
+                Console.WriteLine(" 'I can't be late on my first day of school!' ");
+                Console.ReadKey();
+                Console.WriteLine("*without thinking, you run around a corner*");
+                Console.ReadKey();
+                Console.WriteLine("*CRASH*");
+                Console.ReadKey();
+                Console.WriteLine(" Unknown: 'Ow, what the hell?!' ");
+                Console.ReadKey();
+                Console.WriteLine(" 'Hey are you ok?' ");
+                Console.ReadKey();
+                Console.WriteLine("You smell crabs");
 
-                    input = Console.ReadLine();
-                    
-                    if(input == "Ketamine")
-                    {
+                input = Console.ReadLine();
+
+                if (input == "Ketamine")
+                {
                     Console.WriteLine(" Mr Krabs: 'Frisk boy me bob' ");
                     Console.WriteLine("I turned meself into a pickle");
                     Console.WriteLine("AGAGAGAGAAGAGAGAGAGGAGAAGAGAGAGAG");
