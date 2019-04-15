@@ -489,37 +489,13 @@ elseif(input == 3)
 
 
  Console.ReadKey(); 
-
-
-
  Console.WriteLine(""); 
-
-
-
  Console.WriteLine(@" ________ _____ _____ ___________ ____________ _________________________ "); 
-
-
-
  Console.WriteLine(@" / _____/ / _ \ / \ \_ _____/ \_____ \ \ / /\_ _____/\______ \"); 
-
-
-
  Console.WriteLine(@"/ \ ___ / /_\ \ / \ / \ | __)_ / | \ Y / | __)_ | _/"); 
-
-
-
  Console.WriteLine(@"\ \_\ \/ | \/ Y \| \ / | \ / | \ | | \"); 
-
-
-
  Console.WriteLine(@" \______ /\____|__ /\____|__ /_______ / \_______ /\___/ /_______ / |____|_ /"); 
-
-
-
  Console.WriteLine(@" \/ \/ \/ \/ \/ \/ \/ "); 
-
-
-
  Console.WriteLine(""); 
 
 
