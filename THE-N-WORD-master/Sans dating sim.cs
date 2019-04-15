@@ -251,24 +251,25 @@ namespace Sans_dating_sim
                     Console.WriteLine("',,:,:,::;'''''';:::;:::::::,,,,,::,:,,,,:,,,,:,,,,:::::,:,,,::,,,,,,::,,,,,:,,::,,,,:");
                     Console.WriteLine("',:,,::,,,::::::::::::,,::::,,,,,,,,,,,,,,,,,,,,,,,,::::,,,,,::,,,,,,::,,,,,:,,::,,,,:");
                 }
-                    
-                    Console.ReadKey();
-                    Console.WriteLine("*You come back to your senses and look up at a pale stranger*");
-                    Console.ReadKey();
-                    Console.WriteLine("*It's... it's SANS!*");
-                    Console.ReadKey();
-                    Console.WriteLine(" 'You ok? you hit your head pretty hard' ");
-                    Console.ReadKey();
-                    Console.WriteLine("");
-                    Console.WriteLine("Choose a response:");
-                    Console.WriteLine("");
-                    Console.WriteLine(" 1 - 'Watch where you're walking nigga' ");
-                    Console.WriteLine("");
-                    Console.WriteLine(" 2 - 'Oh..y-yeah, i'm fine' ");
-                    Console.WriteLine("");
-                    Console.WriteLine("");
 
-                    input = Console.ReadLine();
+                Console.ReadKey();
+                Console.WriteLine("*You come back to your senses and look up at a pale stranger*");
+                Console.ReadKey();
+                Console.WriteLine("*It's... it's SANS!*");
+                Console.ReadKey();
+                Console.WriteLine(" 'You ok? you hit your head pretty hard' ");
+                Console.ReadKey();
+                Console.WriteLine("");
+                Console.WriteLine("Choose a response:");
+                Console.WriteLine("");
+                Console.WriteLine(" 1 - 'Watch where you're walking nigga' ");
+                Console.WriteLine("");
+                Console.WriteLine(" 2 - 'Oh..y-yeah, i'm fine' ");
+                Console.WriteLine("");
+                Console.WriteLine(" 3 - 'Fuck me boneman, fill me with that bonemarrow' ");
+                Console.WriteLine("");
+
+                input = Console.ReadLine();
 
                 if (input == "1")
                 {
@@ -324,9 +325,187 @@ namespace Sans_dating_sim
                     Console.WriteLine("");
                     Console.WriteLine("Bad ending: You killed a dead person who just wanted to be black");
                     Console.WriteLine("");
-                    
+
                     //Sans is not pleased.
-                    
+
+                    Console.WriteLine(@"░░░░░░░░░░░░░░░░██████████████████");
+                    Console.WriteLine(@"░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░████");
+                    Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██");
+                    Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██");
+                    Console.WriteLine(@"░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██");
+                    Console.WriteLine(@"░░░░░░░░██░░░░░░░░░░░░░░░░░░░░██████░░░░██");
+                    Console.WriteLine(@"░░░░░░░░██░░░░░░░░░░░░░░░░░░░░██████░░░░██");
+                    Console.WriteLine(@"░░░░░░░░██░░░░██████░░░░██░░░░██████░░░░██");
+                    Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░██████░░░░░░░░░░██");
+                    Console.WriteLine(@"░░░░░░░░████░░██░░░░░░░░░░░░░░░░░░██░░████");
+                    Console.WriteLine(@"░░░░░░░░██░░░░██████████████████████░░░░██");
+                    Console.WriteLine(@"░░░░░░░░██░░░░░░██░░██░░██░░██░░██░░░░░░██");
+                    Console.WriteLine(@"░░░░░░░░░░████░░░░██████████████░░░░████");
+                    Console.WriteLine(@"░░░░░░░░██████████░░░░░░░░░░░░░░██████████");
+                    Console.WriteLine(@"░░░░░░██░░██████████████████████████████░░██");
+                    Console.WriteLine(@"░░░░████░░██░░░░██░░░░░░██░░░░░░██░░░░██░░████");
+                    Console.WriteLine(@"░░░░██░░░░░░██░░░░██████░░██████░░░░██░░░░░░██");
+                    Console.WriteLine(@"░░██░░░░████░░██████░░░░██░░░░██████░░████░░░░██");
+                    Console.WriteLine(@"░░██░░░░░░░░██░░░░██░░░░░░░░░░██░░░░██░░░░░░░░██");
+                    Console.WriteLine(@"░░██░░░░░░░░░░██░░██░░░░░░░░░░██░░██░░░░░░░░░░██");
+                    Console.WriteLine(@"░░░░██░░░░░░██░░░░████░░░░░░████░░░░██░░░░░░██");
+                    Console.WriteLine(@"░░░░░░████░░██░░░░██░░░░░░░░░░██░░░░██░░████");
+                    Console.WriteLine(@"░░░░░░░░██████░░░░██████████████░░░░██████");
+                    Console.WriteLine(@"░░░░░░░░░░████░░░░██████████████░░░░████");
+                    Console.WriteLine(@"░░░░░░░░██████████████████████████████████");
+                    Console.WriteLine(@"░░░░░░░░████████████████░░████████████████");
+                    Console.WriteLine(@"░░░░░░░░░░████████████░░░░░░████████████");
+                    Console.WriteLine(@"░░░░░░██████░░░░░░░░██░░░░░░██░░░░░░░░██████");
+                    Console.WriteLine(@"░░░░░░██░░░░░░░░░░████░░░░░░████░░░░░░░░░░██");
+                    Console.WriteLine(@"░░░░░░░░██████████░░░░░░░░░░░░░░██████████");
+                }
+
+
+              
+
+
+
+
+
+else if(input == "3")
+
+        {
+
+            Console.WriteLine("");
+
+
+
+            Console.WriteLine("Sans: 'I always thought you were a slut' ");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: 'Well in that case, imma fill you up the the meal' ");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: 'Ma bone meal' ");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("*Badum tss*");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("*as sans ravaged your bottom, you felt like you were gonna have a bad time*");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("*but that bad time would suddenly change into a good time*");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: 'ya like that kid?'");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("*You nod to your blue hooded master*");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: 'aight thaz good, cuz im bouta blow'");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: '3' ");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: '2' ");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: '1' ");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: 'Geeeeet dunked ooooon ;)'");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("*Pleasure fills your body as you can hardly stand before sans mighty gaster blaster*");
+
+
+
+            Console.ReadKey();
+
+
+
+            Console.WriteLine("Sans: 'You're 18 right?");
+
+
+            Console.WriteLine("");
+            Console.WriteLine(@"  ________    _____      _____  ___________ ____________   _________________________ ");
+            Console.WriteLine(@" /  _____/   /  _  \    /     \ \_   _____/ \_____  \   \ /   /\_   _____/\______   \");
+            Console.WriteLine(@"/   \  ___  /  /_\  \  /  \ /  \ |    __)_   /   |   \   Y   /  |    __)_  |       _/");
+            Console.WriteLine(@"\    \_\  \/    |    \/    Y    \|        \ /    |    \     /   |        \ |    |   \");
+            Console.WriteLine(@" \______  /\____|__  /\____|__  /_______  / \_______  /\___/   /_______  / |____|_  /");
+            Console.WriteLine(@"        \/         \/         \/        \/          \/                 \/         \/ ");
+            Console.WriteLine("");
+
+
+
+            Console.WriteLine("Bad ending: Sans got caught by the authorities for fucking an 8 year old");
+
+
+
+            Console.WriteLine("");
             Console.WriteLine(@"░░░░░░░░░░░░░░░░██████████████████");
             Console.WriteLine(@"░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░████");
             Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██");
@@ -357,192 +536,16 @@ namespace Sans_dating_sim
             Console.WriteLine(@"░░░░░░██████░░░░░░░░██░░░░░░██░░░░░░░░██████");
             Console.WriteLine(@"░░░░░░██░░░░░░░░░░████░░░░░░████░░░░░░░░░░██");
             Console.WriteLine(@"░░░░░░░░██████████░░░░░░░░░░░░░░██████████");
-                }
-              
-              [14.13] Victor Nikolaj Pharsen Lønstrup
-    
 
 
 
-elseif(input == 3) 
+        }
 
- { 
 
- Console.WriteLine(""); 
 
 
 
- Console.WriteLine("Sans: 'I always thought you were a slut' "); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: 'Well in that case, imma fill you up the the meal' "); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: 'Ma bone meal' "); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("*Badum tss*"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("*as sans ravaged your bottom, you felt like you were gonna have a bad time*"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("*but that bad time would suddenly change into a good time*"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: 'ya like that kid?'"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("*You nod to your blue hooded master*"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: 'aight thaz good, cuz im bouta blow'"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: '3' "); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: '2' "); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: '1' "); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: 'Geeeeet dunked ooooon ;)'"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("*Pleasure fills your body as you can hardly stand before sans mighty gaster blaster*"); 
-
-
-
- Console.ReadKey(); 
-
-
-
- Console.WriteLine("Sans: 'You're 18 right?"); 
-
-
-Console.WriteLine("");
-                     Console.WriteLine(@"  ________    _____      _____  ___________ ____________   _________________________ ");
-                    Console.WriteLine(@" /  _____/   /  _  \    /     \ \_   _____/ \_____  \   \ /   /\_   _____/\______   \");
-                    Console.WriteLine(@"/   \  ___  /  /_\  \  /  \ /  \ |    __)_   /   |   \   Y   /  |    __)_  |       _/");
-                    Console.WriteLine(@"\    \_\  \/    |    \/    Y    \|        \ /    |    \     /   |        \ |    |   \");
-                    Console.WriteLine(@" \______  /\____|__  /\____|__  /_______  / \_______  /\___/   /_______  / |____|_  /");
-                    Console.WriteLine(@"        \/         \/         \/        \/          \/                 \/         \/ ");
-                    Console.WriteLine("");
-
-
-
- Console.WriteLine("Bad ending: Sans got caught by the authorities for fucking an 8 year old"); 
-
-
-
- Console.WriteLine(""); 
- Console.WriteLine(@"░░░░░░░░░░░░░░░░██████████████████"); 
- Console.WriteLine(@"░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░████"); 
- Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██"); 
- Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██"); 
- Console.WriteLine(@"░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██"); 
- Console.WriteLine(@"░░░░░░░░██░░░░░░░░░░░░░░░░░░░░██████░░░░██"); 
- Console.WriteLine(@"░░░░░░░░██░░░░░░░░░░░░░░░░░░░░██████░░░░██"); 
- Console.WriteLine(@"░░░░░░░░██░░░░██████░░░░██░░░░██████░░░░██"); 
- Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░██████░░░░░░░░░░██"); 
- Console.WriteLine(@"░░░░░░░░████░░██░░░░░░░░░░░░░░░░░░██░░████"); 
- Console.WriteLine(@"░░░░░░░░██░░░░██████████████████████░░░░██"); 
- Console.WriteLine(@"░░░░░░░░██░░░░░░██░░██░░██░░██░░██░░░░░░██"); 
- Console.WriteLine(@"░░░░░░░░░░████░░░░██████████████░░░░████"); 
- Console.WriteLine(@"░░░░░░░░██████████░░░░░░░░░░░░░░██████████"); 
- Console.WriteLine(@"░░░░░░██░░██████████████████████████████░░██"); 
- Console.WriteLine(@"░░░░████░░██░░░░██░░░░░░██░░░░░░██░░░░██░░████"); 
- Console.WriteLine(@"░░░░██░░░░░░██░░░░██████░░██████░░░░██░░░░░░██"); 
- Console.WriteLine(@"░░██░░░░████░░██████░░░░██░░░░██████░░████░░░░██"); 
- Console.WriteLine(@"░░██░░░░░░░░██░░░░██░░░░░░░░░░██░░░░██░░░░░░░░██"); 
- Console.WriteLine(@"░░██░░░░░░░░░░██░░██░░░░░░░░░░██░░██░░░░░░░░░░██"); 
- Console.WriteLine(@"░░░░██░░░░░░██░░░░████░░░░░░████░░░░██░░░░░░██"); 
- Console.WriteLine(@"░░░░░░████░░██░░░░██░░░░░░░░░░██░░░░██░░████"); 
- Console.WriteLine(@"░░░░░░░░██████░░░░██████████████░░░░██████"); 
- Console.WriteLine(@"░░░░░░░░░░████░░░░██████████████░░░░████"); 
- Console.WriteLine(@"░░░░░░░░██████████████████████████████████"); 
- Console.WriteLine(@"░░░░░░░░████████████████░░████████████████"); 
- Console.WriteLine(@"░░░░░░░░░░████████████░░░░░░████████████"); 
- Console.WriteLine(@"░░░░░░██████░░░░░░░░██░░░░░░██░░░░░░░░██████"); 
- Console.WriteLine(@"░░░░░░██░░░░░░░░░░████░░░░░░████░░░░░░░░░░██"); 
- Console.WriteLine(@"░░░░░░░░██████████░░░░░░░░░░░░░░██████████"); 
-
-
-
- } 
-
-
-
-
-                
-            }
+    }
                 else if (input == "exit")
                 {
                     datruth = false;
@@ -550,3 +553,4 @@ Console.WriteLine("");
             }
         }
     }
+
