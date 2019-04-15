@@ -161,6 +161,24 @@ namespace Sans_dating_sim
             Console.WriteLine(@"░░░░░░░░██████████░░░░░░░░░░░░░░██████████");
                 }
 
+
+              else if(input == 4)
+                {
+                    Console.WriteLine("Frisk boy me bob");
+                    Console.WriteLine("I just huffed 3 litres of industrial strength solvents and im going to fucking die");
+                    Console.WriteLine("agagagagagagagagagagagaga");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+                }
             }
                 else if (input == "exit")
                 {
