@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//ketamine is in my soul
 namespace Sans_dating_sim
 {
     class Program
