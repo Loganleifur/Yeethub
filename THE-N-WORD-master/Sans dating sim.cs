@@ -117,23 +117,26 @@ namespace Sans_dating_sim
 
                 Console.ReadKey();
 
-                Console.WriteLine("You smell crabs");
+                Console.WriteLine("*You're not really feeling it now");
+
+                Console.ReadKey();
 
 
                 //Mr. Krabs Easter Egg.
-                input = Console.ReadLine();
 
 
 
-                if (input == "Ketamine")
+
+                if (name == "Ketamine")
 
                 {
 
-                    Console.WriteLine(" Mr Krabs: 'Frisk boy me bob' ");
-
+                    Console.WriteLine(" Mr Krabs: '" + name + " boy me bob' ");
+                    Console.ReadKey();
                     Console.WriteLine("I turned meself into a pickle");
-
+                    Console.ReadKey();
                     Console.WriteLine("AGAGAGAGAAGAGAGAGAGGAGAAGAGAGAGAG");
+                    Console.ReadKey();
 
 
 
@@ -507,7 +510,9 @@ namespace Sans_dating_sim
 
                     Console.WriteLine("',:,,::,,,::::::::::::,,::::,,,,,,,,,,,,,,,,,,,,,,,,::::,,,,,::,,,,,,::,,,,,:,,::,,,,:");
 
+
                 }
+
 
 
 
@@ -810,7 +815,7 @@ namespace Sans_dating_sim
 
                     Console.ReadKey();
 
-                    Console.WriteLine("*Suddenly the door fly open*");
+                    Console.WriteLine("*Suddenly the door flies open*");
 
                     Console.ReadKey();
 
@@ -883,7 +888,28 @@ namespace Sans_dating_sim
                     }
                     else if (input == "3")
                     {
-
+                        Console.WriteLine("Sans: 'Oh you know, I was just strolling through the hallway");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'When I remembered that you dropped this during our morning jumble'");
+                        Console.ReadKey();
+                        if (deskText == "Ketamin")
+                        {
+                            Console.WriteLine("*He hands you your 240 Volt FuckMaster Pro 5000 blowup latex doll with 6 speed pulsating pussy, elasticized anus with non-drip semen collection tray, together with optional built in realistic orgasm scream surround sound system");
+                            Console.ReadKey();
+                            Console.WriteLine("*You are overfilled with mixed emotions so you just grab your 240 Volt FuckMaster Pro 5000 blowup latex doll with 6 speed pulsating pussy, elasticized anus with non-drip semen collection tray, together with optional built in realistic orgasm scream surround sound system*");
+                            Console.ReadKey();
+                            Console.WriteLine("hey kid, you okay?");
+                            Console.ReadKey();
+                            Console.WriteLine("Yeah, I'm fine");
+                            Console.ReadKey();
+                            Console.WriteLine("You also dropped this");
+                        }
+                        Console.WriteLine("It's a key chain with a little" + deskText + "on it");
+                        Console.ReadKey();
+                        Console.WriteLine("");
+                        Console.ReadKey();
+                        Console.WriteLine("");
+                        Console.ReadKey();
                     }
                 }
             }
