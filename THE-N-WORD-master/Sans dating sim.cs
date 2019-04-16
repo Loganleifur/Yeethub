@@ -653,7 +653,7 @@ namespace Sans_dating_sim
 
                     Console.ReadKey();
 
-                    Console.WriteLine("Sans: 'I'm gonn say MY MAN!' ");
+                    Console.WriteLine("Sans: 'I'm gonna say MY MAN!' ");
 
                     Console.ReadKey();
 
