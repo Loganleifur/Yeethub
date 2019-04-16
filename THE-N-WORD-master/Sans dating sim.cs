@@ -894,9 +894,13 @@ namespace Sans_dating_sim
                         Console.ReadKey();
                         if (deskText == "Ketamin")
                         {
-                            Console.WriteLine("*He hands you your 240 Volt FuckMaster Pro 5000 blowup latex doll with 6 speed pulsating pussy, elasticized anus with non-drip semen collection tray, together with optional built in realistic orgasm scream surround sound system");
+                            Console.WriteLine("*He hands you your 240 Volt FuckMaster Pro 5000 blowup latex doll with 6 speed pulsating pussy");
                             Console.ReadKey();
-                            Console.WriteLine("*You are overfilled with mixed emotions so you just grab your 240 Volt FuckMaster Pro 5000 blowup latex doll with 6 speed pulsating pussy, elasticized anus with non-drip semen collection tray, together with optional built in realistic orgasm scream surround sound system*");
+                            Console.WriteLine("elasticized anus with non-drip semen collection tray, together with optional built in realistic orgasm scream surround sound system");
+                            Console.ReadKey();
+                            Console.WriteLine("*You are overfilled with mixed emotions so you just grab your 240 Volt FuckMaster Pro 5000 blowup latex doll with 6 speed pulsating pussy*");
+                            Console.ReadKey();
+                            Console.WriteLine("elasticized anus with non-drip semen collection tray, together with optional built in realistic orgasm scream surround sound system");
                             Console.ReadKey();
                             Console.WriteLine("hey kid, you okay?");
                             Console.ReadKey();
@@ -904,12 +908,53 @@ namespace Sans_dating_sim
                             Console.ReadKey();
                             Console.WriteLine("You also dropped this");
                         }
-                        Console.WriteLine("It's a key chain with a little" + deskText + "on it");
+                        Console.WriteLine("It's a key chain with a round little blue cat on it");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": 'Thanks a lot Sans, you're a life saver' ");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: Heh, no problem kiddo, next time you should KEY-p it in a safer place");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": ...");
+                        Console.ReadKey();
+                        Console.WriteLine("*You elegantly slam your palm into your face at a speed that could break the sound barrier*");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'So it was that good, huh?'");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": 'mhmmm...'");
+                        Console.ReadKey();
+                        Console.WriteLine("*Your face feels hot*");
+                        Console.ReadKey();
+                        Console.WriteLine(" 'Anyways kid, what are you doing in school' ");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": 'Huh?' ");
+                        Console.ReadKey();
+                        Console.WriteLine(" 'What are you doing in school on a sunday?' ");
+                        Console.ReadKey();
+                        Console.WriteLine(" 'You whip out your phone only to see that he's right' ");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": 'UUUuugghhh, I thought it was monday' ");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'Not for another 17 hours kid' ");
+                        Console.ReadKey();
+                        Console.WriteLine("*You realize this is the perfect chance to ask Sans out*");
+                        Console.ReadKey();
+                        Console.WriteLine(" *You think 'What could go wrong' ,but just as you were about to ask Sans out");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'Sooo... Now that we're here, care to join me on the roof?' ");
+                        Console.ReadKey();
+                        Console.WriteLine("*You freeze up in a moment of shock*");
                         Console.ReadKey();
                         Console.WriteLine("");
                         Console.ReadKey();
                         Console.WriteLine("");
                         Console.ReadKey();
+                        Console.WriteLine("");
+                        Console.ReadKey();
+                        Console.WriteLine("");
+                        Console.ReadKey();
+                        Console.WriteLine("");
+                        Console.ReadKey();
+                        Console.WriteLine("");
                     }
                 }
             }
