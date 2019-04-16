@@ -57,7 +57,12 @@ namespace Sans_dating_sim
             Console.WriteLine("");
 
 
+            
             string name;
+            string favBand;
+            string favFood;
+            string favAnimal;
+            string hobby;
             bool datruth = true;
 
 
@@ -66,19 +71,45 @@ namespace Sans_dating_sim
 
             input = Console.ReadLine();
 
-
-
-
-
             if (input == "y")
 
             {
                 Console.WriteLine("");
 
-                Console.WriteLine("Please Write your name: ");
+                Console.WriteLine("Please enter your name: ");
 
                 name = Console.ReadLine();
 
+                Console.WriteLine("");
+
+                Console.WriteLine("Please enter your favorite band: ");
+
+                favBand = Console.ReadLine();
+
+                Console.WriteLine("");
+
+                Console.WriteLine("Please enter your favorite food: ");
+
+                favFood = Console.ReadLine();
+
+                Console.WriteLine("");
+
+                Console.WriteLine("Please enter your favorite animal: ");
+
+                favAnimal = Console.ReadLine();
+
+                Console.WriteLine("");
+
+                Console.WriteLine("Lastly enter a hobby of yours: ");
+
+                hobby = Console.ReadLine();
+
+                Console.WriteLine("");
+
+                Console.WriteLine("Now the game can begin");
+
+                Console.ReadKey();
+                
                 Console.WriteLine("");
 
                 Console.WriteLine("*You wake up one morning and look at your alarm clock*");
@@ -855,36 +886,106 @@ namespace Sans_dating_sim
 
                     if (input == "1")
                     {
-                        Console.WriteLine("Sans: 'Hm? yeah i'm fine, but do you know what day it is?'");
+                        Console.WriteLine("Sans: 'Nice fucking try kiddo, but i see through your jewish trickery'");
                         Console.ReadKey();
-                        Console.WriteLine("Protagonist");
+                        Console.WriteLine(name + ": 'Ahh shit, here we go again'");
                         Console.ReadKey();
-                        Console.WriteLine("");
+                        Console.WriteLine("Sans: 'You're gonna have a bad time'");
                         Console.ReadKey();
-                        Console.WriteLine("");
+                        Console.WriteLine("*Sans does the torture dance on you as his gaster blasters take aim*");
                         Console.ReadKey();
-                        Console.WriteLine("");
+                        Console.WriteLine("Sans: 'Get fucking dunked on kiddo'");
                         Console.ReadKey();
-                        Console.WriteLine("");
+                        Console.WriteLine(name + ": 'What can you tell me about the reapers?'");
                         Console.ReadKey();
-                        Console.WriteLine("");
+                        Console.WriteLine("Sans: 'You are dededead'");
+                        Console.ReadKey();
+
+                        Console.WriteLine(@"  ________    _____      _____  ___________ ____________   _________________________ ");
+                        Console.WriteLine(@" /  _____/   /  _  \    /     \ \_   _____/ \_____  \   \ /   /\_   _____/\______   \");
+                        Console.WriteLine(@"/   \  ___  /  /_\  \  /  \ /  \ |    __)_   /   |   \   Y   /  |    __)_  |       _/");
+                        Console.WriteLine(@"\    \_\  \/    |    \/    Y    \|        \ /    |    \     /   |        \ |    |   \");
+                        Console.WriteLine(@" \______  /\____|__  /\____|__  /_______  / \_______  /\___/   /_______  / |____|_  /");
+                        Console.WriteLine(@"        \/         \/         \/        \/          \/                 \/         \/ ");
+
+                        Console.WriteLine("Stay away from my,  CabBaGe");
 
                     }
                     else if (input == "2")
                     {
-                        Console.WriteLine("");
+                        Console.WriteLine("Sans: 'Hm? yeah i'm fine, but do you know what day it is? '");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": Eh?");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'It's a sunday, you're not supposed to be here yet..");
+                        Console.ReadKey();
+                        Console.WriteLine("*You look down on your phone to check the date*");
+                        Console.ReadKey();
+                        Console.WriteLine("*Sunday - 7 am*");
+                        Console.ReadKey();
+                        Console.WriteLine("('Fuck he's right')");
+                        Console.ReadKey();
+                        Console.WriteLine("*You blush from the embarrasment*");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'Everyone makes mistakes, just wanted to let you know' ");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'hm?.. what's that?' ");
+                        Console.ReadKey();
+                        Console.WriteLine("*Sans glares over at your desk*");
+                        Console.ReadKey();
+                        Console.WriteLine("*Your attempt to hide the desk engravings were futile*");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: '" + deskText + "' ");
+                        Console.ReadKey();
+                        Console.WriteLine("*You hide your face from the amount of embarrasment*");
+                        Console.ReadKey();
+                        Console.WriteLine("*Sans is laughing, he doesn't seem disgusted at all*");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'Heh.. heh.. you're pretty cool kid' ");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": W-what? why?");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'You're funny, i like that about you' ");
+                        Console.ReadKey();
+                        Console.WriteLine("*Your face is completely red*");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": H....");
+                        Console.ReadKey();
+                        Console.WriteLine(name + ": H-hey! Sans!");
+                        Console.ReadKey();
+                        Console.WriteLine("Sans: 'Hm? yeah what is it?'");
                         Console.ReadKey();
                         Console.WriteLine("");
-                        Console.ReadKey();
+
+
+                        Console.WriteLine("What to say?: ");
+
+                        Console.WriteLine(" 1 - 'Sans! wanna go to the zoo!?' ");
+
                         Console.WriteLine("");
-                        Console.ReadKey();
+
+                        Console.WriteLine(" 2 - 'W-w-would you mind walking me home?' ");
+
                         Console.WriteLine("");
-                        Console.ReadKey();
-                        Console.WriteLine("");
-                        Console.ReadKey();
-                        Console.WriteLine("");
-                        Console.ReadKey();
-                        Console.WriteLine("");
+
+                        Console.WriteLine(" 3 - 'Wanna grab something to eat?' ");
+
+
+                        input = Console.ReadLine();
+
+
+                        if (input == "1")
+                        {
+
+                        }
+                        else if (input == "2")
+                        {
+
+                        }
+                        else if (input == "3")
+                        {
+
+                        }
                     }
                     else if (input == "3")
                     {
