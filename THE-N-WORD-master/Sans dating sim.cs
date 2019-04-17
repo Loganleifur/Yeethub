@@ -975,14 +975,80 @@ namespace Sans_dating_sim
 
                         input = Console.ReadLine();
 
-
+                        //zoo path
                         if (input == "1")
                         {
-                            Console.WriteLine("heyhey sure");
+                            Console.WriteLine("Sans: 'Hm? why would you want to go to the zoo?' ");
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": 'B-because.. i thought... since you're here, w-we could hang out?' ");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'Oh! i see, well i don't really have anything planned so sure' ");
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": 'R-really? i'm glad!' ");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'Shall we go then? they are open soon' ");
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": 'Yes.. yes let's go!' ");
+                            Console.ReadKey();
+                            Console.WriteLine("*You and Sans stand side by side as you leave school to go to the zoo*");
+                            Console.ReadKey();
+                            Console.WriteLine("*You don't talk, you're too scared to*");
+                            Console.ReadKey();
+                            Console.WriteLine("*luckily, Sans breaks the silence*");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'So what kind of animals do you want to find?' ");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'I would personally like to see a' " + favAnimal);
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": Sans.. you like " + favAnimal + "?");
+                            Console.ReadKey();
+                            Console.WriteLine("*Sans looks at your blushing face in curiosity*");
+                            Console.ReadKey();
+                            Console.WriteLine("*you turn away, flustered*");
+                            Console.ReadKey();
+                            Console.WriteLine("*Sans smiles at you*");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'Yeah, i think they're kinda cute' ");
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": I...i..");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'Hm?..' ");
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": 'I fucking love' " + favAnimal);
+                            Console.ReadKey();
+                            Console.WriteLine(name + ": 'They're so cute' ");
+                            Console.ReadKey();
+                            Console.WriteLine("Sans: 'Glad to see i'm not alone' ");
+                            Console.ReadKey();
+                            Console.WriteLine("*Sans smiles at you*");
+                            Console.ReadKey();
+                            Console.WriteLine("*You smile back*");
+                            Console.ReadKey();
+                            Console.WriteLine("*You've reached The Zoo*");
+                            Console.ReadKey();
+                        
+                        //the walk home path
                         }
                         else if (input == "2")
                         {
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
+                            Console.WriteLine("");
+                            Console.ReadKey();
 
+                        //The restaurant path
                         }
                         else if (input == "3")
                         {
