@@ -976,7 +976,7 @@ namespace Sans_dating_sim
 
                         if (input == "1")
                         {
-
+                            Console.WriteLine("heyhey sure");
                         }
                         else if (input == "2")
                         {
