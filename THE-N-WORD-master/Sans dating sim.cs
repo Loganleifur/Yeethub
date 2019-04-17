@@ -21,6 +21,7 @@ namespace Sans_dating_sim
         static void Main(string[] args)
 
         {
+            //i have added the n word
             //jakup har været her...
             //THIS IS A SIN, WE ARE SO SORRY
 
