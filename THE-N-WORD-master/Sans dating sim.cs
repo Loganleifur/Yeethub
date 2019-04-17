@@ -21,7 +21,7 @@ namespace Sans_dating_sim
         static void Main(string[] args)
 
         {
-
+            //jakup har været her...
             //THIS IS A SIN, WE ARE SO SORRY
 
             //I'LL FUCKING DO IT AGAIN
